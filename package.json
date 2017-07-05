@@ -1,0 +1,24 @@
+{
+  "name": "weekend_chal_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjaminhaesemeyer/weekend_chal_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjaminhaesemeyer/weekend_chal_2/issues"
+  },
+  "homepage": "https://github.com/Benjaminhaesemeyer/weekend_chal_2#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1"
+  }
+}
